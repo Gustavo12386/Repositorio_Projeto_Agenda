@@ -2,7 +2,8 @@
 
 link-site: https://gustavoviana2.pythonanywhere.com/
 Tecnologias usadas:
-HTML5, CSS3, Bootstrap, Python e Django
+HTML5, CSS3, Bootstrap, Python e Django e MySQL
+
 ![Cap1](https://user-images.githubusercontent.com/81700849/186700299-aa8c5064-211b-4d35-9be3-a4ca9168ecd2.PNG)
 ![Cap2](https://user-images.githubusercontent.com/81700849/186700334-c5451a64-ab4f-46c4-9ab0-f3a3e3ed0934.PNG)
 ![Cap3](https://user-images.githubusercontent.com/81700849/186700363-e95856dc-de8c-4ef4-aa70-1fff969e7d54.PNG)
