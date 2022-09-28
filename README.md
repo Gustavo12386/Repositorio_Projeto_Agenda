@@ -1,4 +1,4 @@
-# Repositorio_Projeto_Agenda
+# Repositório_Projeto_Agenda
 
 ## Sobre o Projeto
 https://gustavoviana2.pythonanywhere.com/
@@ -14,7 +14,7 @@ HTML5, CSS3, Bootstrap, Python e Django e MySQL
 
 Pré-requisitos: Python 3.10.5
 
-#clonar repositorio
+#clonar repositório
 
 git clone https://github.com/Gustavo12386/Repositorio_Projeto_Agenda.git
 
