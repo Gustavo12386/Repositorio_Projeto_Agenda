@@ -1,8 +1,32 @@
 # Repositorio_Projeto_Agenda
 
-link-site: https://gustavoviana2.pythonanywhere.com/
-Tecnologias usadas:
+## Sobre o Projeto
+https://gustavoviana2.pythonanywhere.com/
+
+O projeto agenda é uma aplicação web construido com a linguagem de programação python junto com o framework Django.
+
+A aplicação consiste em um determinado usuário registrar contatos de pessoas em uma agenda de contatos, onde ira ter uma dashboard para realizar essa função, mas antes ele terá que cadastrar um perfil e em seguida terá que fazer login, e também o usuário que cadastrar um perfil também tera uma pagina inicial para a visualização dos contatos que cadastrou.
+
+## Tecnologias utilizadas:
 HTML5, CSS3, Bootstrap, Python e Django e MySQL
+
+## Como executar o projeto
+
+Pré-requisitos: Python 3.10.5
+
+#clonar repositorio
+
+git clone https://github.com/Gustavo12386/Repositorio_Projeto_Agenda.git
+
+#entrar na pasta do projeto 
+
+cd Projeto_Agenda
+
+#executar o projeto
+
+python manage.py runserver
+
+# Imagens
 
 ![Cap1](https://user-images.githubusercontent.com/81700849/186700299-aa8c5064-211b-4d35-9be3-a4ca9168ecd2.PNG)
 ![Cap2](https://user-images.githubusercontent.com/81700849/186700334-c5451a64-ab4f-46c4-9ab0-f3a3e3ed0934.PNG)
