@@ -8,11 +8,11 @@ O projeto agenda é uma aplicação web construido com a linguagem de programaç
 A aplicação consiste em um determinado usuário registrar contatos de pessoas em uma agenda de contatos, onde ira ter uma dashboard para realizar essa função, mas antes ele terá que cadastrar um perfil e em seguida terá que fazer login, e também o usuário que cadastrar um perfil também tera uma pagina inicial para a visualização dos contatos que cadastrou.
 
 ## Tecnologias utilizadas:
-HTML5, CSS3, Bootstrap, Python e Django e MySQL
+- HTML5, CSS3, Bootstrap, Python e Django e MySQL
 
 ## Como executar o projeto
 
-Pré-requisitos: Python 3.10.4
+- Pré-requisitos: Python 3.10.4
 
 #clonar repositório
 
@@ -20,11 +20,11 @@ git clone https://github.com/Gustavo12386/Repositorio_Projeto_Agenda.git
 
 #entrar na pasta do projeto 
 
-cd Projeto_Agenda
+- cd Projeto_Agenda
 
 #executar o projeto
 
-python manage.py runserver
+- python manage.py runserver
 
 # Imagens
 
