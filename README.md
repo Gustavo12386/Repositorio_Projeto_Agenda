@@ -1,8 +1,6 @@
 # Repositório_Projeto_Agenda
 
 ## Sobre o Projeto
-https://gustavoviana2.pythonanywhere.com/
-
 O projeto agenda é uma aplicação web construido com a linguagem de programação python junto com o framework Django.
 
 A aplicação consiste em um determinado usuário registrar contatos de pessoas em uma agenda de contatos, onde ira ter uma dashboard para realizar essa função, mas antes ele terá que cadastrar um perfil e em seguida terá que fazer login, e também o usuário que cadastrar um perfil também tera uma pagina inicial para a visualização dos contatos que cadastrou.
